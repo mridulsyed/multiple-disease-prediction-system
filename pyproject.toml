@@ -1,6 +1,0 @@
-[tool.poetry.dependencies]
-python = "^3.11"
-altair = "^5.4.1"
-streamlit = "^1.2.0"
-scikit-learn = "^1.2.2"
-# Add other dependencies as needed
